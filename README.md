@@ -12,12 +12,16 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 - E2: Intermediate
 
 ## Pre-requisites 
-- ModusToolbox™ with Eclipse IDE
-- Edge Protect Security Suite
-- Basic understanding of PSOC™ Edge MCU and peripherals
-- Basic understanding of ModusToolbox™ 
+### Recommended trainings
+- This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper).
+  - For PSOC™ Edge trainings, from begginer tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 
-See [training content](#content) for versions and instructions.
+### Tools (see [training manual](#content) for versions and installation instructions)
+- [ModusToolbox™ with Eclipse IDE](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
+- [Edge Protect Security Suite](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
+- [ModusToolbox™ Programming tools](https://softwaretools.infineon.com/tools/com.ifx.tb.tool.modustoolboxsetup)
+- Terminal emulator
 
 ## Hardware
 - [KIT_PSE84_EVAL](https://www.infineon.com/evaluation-board/KIT-PSE84-EVAL)
@@ -37,19 +41,24 @@ See [training content](#content) for versions and instructions.
     - Transfer of ownership
     - Policy file
 4. Introduction to Edge Protect Tools
-5. Labs demonstrating transfer of ownership, enabling secured boot, and signing
+5. Labs demonstrating transfer of ownership, enabling secured boot, and signing an application image
 
 ## Expected outcome
-- Understand fundamental concepts of security
-- Get familiar with the PSOC™ Edge security architecture and features 
-- Understand how to transfer the ownership of PSOC™ Edge and how to modify policy file for development
-- Train-the-trainer. Attendees should be able to deliver the same training to customers
+- Understand fundamental concepts of security.
+- Get familiar with the PSOC™ Edge security architecture and features.
+- Understand how to transfer the ownership of PSOC™ Edge and how to modify policy file for development.
 
 ## Content
-- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/28f341de-0dfd-4066-ba33-30c9aa1e355b)
+- [Training video at Infineon Academy]()
 - [Presentation](./Presentation/Introduction_to_PSOC(TM)_Edge_Security.pdf)
 - [Training manual](./Manual/PSE84_Security_Introduction_Training_Manual.pdf)
 - [Solution to labs](./Lab_Source/)
+
+## How to use this training?
+1. Download the training [content](#content).
+2. Watch the video or review the presentation at your own pace.
+3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
 
 ## References and resources
 
