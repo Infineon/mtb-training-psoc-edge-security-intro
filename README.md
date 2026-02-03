@@ -1,4 +1,4 @@
-# PSOC™ Edge E2 Training - Security Introduction
+# PSOC™ Edge E2 Training - Security introduction
 
 This training provides an introduction to fundamental security concepts, including 
 cryptography basics, IoT security, and security threats; and then it explores the
@@ -7,6 +7,12 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 
 ## Device family
 - [PSOC™ Edge](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
+
+## How to use this training?
+1. Download the training [content](#content).
+2. Watch the video or review the presentation at your own pace.
+3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+4. Use the provided source files if needed to verify the solution. 
 
 ## Training level
 - E2: Intermediate
@@ -49,16 +55,10 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 - Understand how to transfer the ownership of PSOC™ Edge and how to modify policy file for development.
 
 ## Content
-- [Training video at Infineon Academy]()
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dlodetails%2526lo%253d28f341de-0dfd-4066-ba33-30c9aa1e355b)
 - [Presentation](./Presentation/Introduction_to_PSOC(TM)_Edge_Security.pdf)
 - [Training manual](./Manual/PSE84_Security_Introduction_Training_Manual.pdf)
 - [Solution to labs](./Lab_Source/)
-
-## How to use this training?
-1. Download the training [content](#content).
-2. Watch the video or review the presentation at your own pace.
-3. Follow the step-by-step instructions in the training manual during the hands-on sections.
-4. Use the provided source files if needed to verify the solution. 
 
 ## References and resources
 
@@ -72,4 +72,4 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 
 | Date | Version | Description |
 | ---- | ---------   |-------------|
-| 12/10/2025 | **  | First public release |  
+| 02/03/2026 | **  | First public release |  
