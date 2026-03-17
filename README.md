@@ -73,3 +73,4 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 | Date | Version | Description |
 | ---- | ---------   |-------------|
 | 02/03/2026 | **  | First public release |  
+| 03/17/2026 | *A  | Minor fixes to lab manual and presentation. See corresponding history. | 
