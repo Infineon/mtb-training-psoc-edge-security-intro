@@ -1,4 +1,4 @@
-# PSOC™ Edge E2 Training - Security introduction
+# PSOC™ Edge Training - Security introduction
 
 This training provides an introduction to fundamental security concepts, including 
 cryptography basics, IoT security, and security threats; and then it explores the
@@ -20,7 +20,7 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 ## Pre-requisites 
 ### Recommended trainings
 - This training doesn't cover basic concepts of ModusToolbox™ and PSOC™ Edge. 
-  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/product-information/psocdeveloper).
+  - For an introduction to PSOC™ MCUs, including getting started guides to ModusToolbox™, go to the [PSOC™ Developer Journey](https://www.infineon.com/PSOCdeveloper).
   - For PSOC™ Edge trainings, from begginer tutorials to advanced trainings, please visit the [PSOC™ Edge E84 Training Collection](https://infineon-academy.csod.com/ui/lms-learner-playlist/PlaylistDetails?playlistId=8f04565f-88f4-4ca7-83b3-22e501656fbd).
 
 ### Tools (see [training manual](#content) for versions and installation instructions)
@@ -64,7 +64,7 @@ Edge Protect Tools, provisioning the device, and enabling secured boot.
 
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
 - [Infineon Edge Protect](https://www.infineon.com/promo/edge-protect)
-- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/product-information/psocdeveloper)
+- [Introduction to PSOC™ MCUs and ModusToolbox™](https://www.infineon.com/PSOCdeveloper)
 - [PSOC™ Edge E84 training collection](https://infineon-academy.csod.com/samldefault.aspx?ouid=1&returnURL=%252fDeepLink%252fProcessRedirect.aspx%253fmodule%253dphnxdriver%2526routename%253dAdmin%252fPlayerPageRedirectHandler%2526Route%253d%25252flms-learner-playlist%25252fPlaylistDetails%2526Parameters%253dplaylistId%25253d8f04565f-88f4-4ca7-83b3-22e501656fbd)
 
 
